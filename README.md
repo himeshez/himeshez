@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 <img src="assets/portfolio.png">
 <br>
-<b>Hello there, stranger</b>
+
+## Hello there, stranger
 I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
 <h3 align="center">Student at KIIT 👨‍🎓 </h3>
 <!-- 👋 -->
 <br>
+
 ## Public information
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
