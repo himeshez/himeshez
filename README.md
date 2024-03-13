@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="assets/portfolio.png">
 <br>
-<h1>  Hey! I'm Himesh Mohapatra </h1>
+<h1 align="center">  Hey! I'm Himesh Mohapatra </h1>
 <h3 align="center">Student at KIIT 👨‍🎓 </h3>
 <!-- 👋 -->
 <br>
