@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## Hello there, stranger
 I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
-<h5 align="center">Student at KIIT 👨‍🎓 </h5>
 <!-- 👋 -->
 <br>
 
