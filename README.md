@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **himeshmahapatra@gmail.com**
 
-- 💻 Visit my Linkedin [here](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/)
+- 💻 Visit my Linkedin [Linkedin](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/)
