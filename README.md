@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Hello there, stranger
-I don't really know how you landed here, but I will try to show a little bit about myself for you. 👋 
+I don't really know how you landed here, but I will try to show a little bit about myself for you ;)<!--👋--> 
 <br>
 
 ## Public information
